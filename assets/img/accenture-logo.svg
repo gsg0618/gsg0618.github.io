@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Accenture logo mark</title>
+  <desc id="desc">Purple greater-than symbol on white background.</desc>
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8a2be2"/>
+      <stop offset="100%" stop-color="#c300ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" fill="#ffffff"/>
+  <path d="M49 67 L188 123 L49 179 L49 145 L137 123 L49 101 Z" fill="url(#g)"/>
+</svg>
